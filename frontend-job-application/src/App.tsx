@@ -1,5 +1,6 @@
 import { MantineProvider } from "@mantine/core";
 import '@mantine/core/styles.css';
+import '@mantine/carousel/styles.css';
 import "./App.css";
 import WelcomePage from "./pages/WelcomePage";
 import { BrowserRouter, Routes, Route } from "react-router-dom";

@@ -13,7 +13,6 @@ const Navbar = () => {
         </div>
 
         <NavLinks />
-
         <div className="flex flex-wrap items-center gap-3">
           <Indicator color="yellow" offset={7} size={13} withBorder processing>
             <Bell className="w-10 h-10 p-2 cursor-pointer rounded-full bg-slate-900 hover:text-sky-400 hover:bg-slate-800 transition" />
